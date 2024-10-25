@@ -30,14 +30,13 @@ h2{
     color: rgb(27, 6, 6);
 }
 
-a{
-    font-family: 'Segoe UI';
-    color: rgb(255, 205, 243);
-    transition: color 0.2s;
+.hover-here{
+    color: rgb(255, 71, 212);
+    transition: color  0.3s;
 }
 
-a:hover{
-    color: rgb(243, 81, 119);
+.hover-here:hover{
+    color: rgb(102, 178, 136);
 }
 
 h1{
