@@ -19,6 +19,10 @@ body{
     margin: 30px;
 }
 
+.title1{
+    text-align: center;
+}
+
 .couture{
     font-family: 'Trebuchet MS';
     font-weight: 400;
@@ -45,13 +49,6 @@ h1{
 }
 
 .picture{
-    margin: 40px;
-    width: 50%;
-    align-items: center;
-    border: 20px rgb(209, 187, 237);
-}
-
-.picture1{
     margin: 40px;
     width: 50%;
     align-items: center;
