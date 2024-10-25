@@ -1,1 +1,58 @@
-"" 
+
+.title{
+    color: rgb(82, 12, 60);
+    text-align: center;
+    font-size: 45px;
+}
+
+body{
+    margin: 0;
+    background: linear-gradient(180deg, #d4fbff, #b8bba3);
+    font-size: medium;
+}
+
+#popular-schools {
+    outline-style: none;
+    outline-width: thick;
+    outline-color: rgb(255, 154, 171);
+    padding: 20%;
+
+}
+
+.current-fashions{
+    border: 0%;
+    width: 325px;
+    margin: 30px;
+}
+
+.couture{
+    font-family: 'Trebuchet MS';
+    font-weight: 400;
+    color:rgb(50, 34, 65);
+}
+
+h2{
+    font-family: 'Courier New';
+    color: rgb(27, 6, 6);
+}
+
+a{
+    font-family: 'Segoe UI';
+    color: pink;
+}
+
+a:hover{
+    color: rgb(243, 81, 119);
+}
+
+h1{
+    font-family: 'Times New Roman';
+    color: black;
+}
+
+.picture{
+    margin: 40px;
+    width: 50%;
+    align-items: center;
+    border: 20px rgb(209, 187, 237);
+}
