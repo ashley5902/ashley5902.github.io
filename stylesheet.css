@@ -28,7 +28,7 @@ body{
 .couture{
     font-family: 'Trebuchet MS';
     font-weight: 400;
-    color:rgb(50, 34, 65);
+    color:rgb(80, 47, 112);
 }
 
 h2{
@@ -38,7 +38,8 @@ h2{
 
 a{
     font-family: 'Segoe UI';
-    color: pink;
+    color: rgb(255, 205, 243);
+    transition: color 0.2s;
 }
 
 a:hover{
